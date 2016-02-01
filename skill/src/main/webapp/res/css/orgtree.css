@@ -1,0 +1,19 @@
+.orgdepTree{
+	display:none; 
+	position: absolute !important;
+	width: 250px !important; 
+	background: #ffffff; 
+	*border: 1px solid #aaa !important;
+	border: 1px solid #79b6dc !important;
+	z-index: 9999 !important;
+	*overflow-y:auto !important;
+	*overflow-x:auto !important;
+}
+
+.orgdepTree .ztree{
+	*margin: 2px 3px !important; 
+	*width: 235px !important; 
+	height:285px !important;
+	overflow-y:auto !important;
+	overflow-x:auto !important;
+}
